@@ -3,7 +3,7 @@ package net.missdjoko.figure;
 /**
  * Created by Miss_ on 21.03.2016.
  */
-public class Triangle extends Figure{
+public class Triangle extends SecondFigure{
 
     double height;
 
